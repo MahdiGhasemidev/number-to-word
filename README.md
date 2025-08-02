@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 **Mahdi Ghasemi**  
-📧 Email: mahdi.ghasemi.dev@gmail.com 
+📧 Email: Mahdi.ghasemi.dev@gmail.com  
 🌐 GitHub: [Mahdi Ghasemi](https://github.com/MahdiGhasemidev)  
 
 ---
