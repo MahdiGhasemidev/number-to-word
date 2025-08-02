@@ -17,7 +17,7 @@ For example, the input `12345` will output `"Twelve Thousand Three Hundred Forty
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/number-to-word.git
+git clone https://github.com/MahdiGhasemidev/number-to-word.git
 cd number-to-word
 ```
 
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 **Mahdi Ghasemi**  
-📧 Email: your.email@example.com  
+📧 Email: mahdi.ghasemi.dev@gmail.com 
 🌐 GitHub: [Mahdi Ghasemi](https://github.com/MahdiGhasemidev)  
 
 ---
